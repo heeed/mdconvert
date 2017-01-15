@@ -9,6 +9,8 @@ Requirements:
 No Python 3 support just yet...thats next.
 
 Grip: https://github.com/joeyespo/grip / pip install grip
+
 pdfkit: https://github.com/pdfkit/pdfkit / pip install pdfkit
+
 wkhtmltopdf: (debian based): sudo apt get install wkhtmltopdf
 
