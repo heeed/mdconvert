@@ -14,3 +14,7 @@ pdfkit: https://github.com/pdfkit/pdfkit / pip install pdfkit
 
 wkhtmltopdf: (debian based): sudo apt get install wkhtmltopdf
 
+ps:
+
+one gotcha at the moment is that you need to make sure the images dir is either symlinked or copied into the html dir...otherwise the pdf will render without images :( 
+This will be sorted soon
